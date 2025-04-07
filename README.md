@@ -56,10 +56,10 @@ Agriculture forms a key component of Karnataka’s economy. Understanding yield 
 ## 📊 6. Analysis & Visualizations
 
 **Visual Components:**
-- 📈 Line chart for crop-wise trends over time
-- 🗺️ Heatmap of district-wise yield performance
-- 📊 Bar chart for area vs production comparison
-- 📌 Pie chart for crop share by cultivation area
+- 📈 Line chart for yeild trends over time
+- 🗺️ Bar chart for crops
+- 📊 Bar chart for frequency of soil type
+- 📌 Pie chart for irrigation type vs yeild
 
 ---
 
