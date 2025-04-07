@@ -34,7 +34,7 @@ To analyze agricultural crop data across districts and years to discover trends,
 Agriculture forms a key component of Karnataka’s economy. Understanding yield and area trends can inform policy and resource allocation.
 
 ### Data Sources
-- https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-dataset
+- https://www.kaggle.com/datasets/imtkaggleteam/agriculture-dataset-karnataka
 
 ---
 
@@ -84,7 +84,7 @@ This project provides a comprehensive view of agricultural data in Karnataka, en
 
 ## 📚 9. References
 
-- Source: https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-dataset
+- Source: https://www.kaggle.com/datasets/imtkaggleteam/agriculture-dataset-karnataka
 
 ---
 
