@@ -91,7 +91,7 @@ This project provides a comprehensive view of agricultural data in Karnataka, en
 ## 🚀 Getting Started
 
 To run the project:
-1. Use the Excel file to explore raw data and visualizations
+1. Use the Excel file to explore raw data and visualizations.
 
 ---
 
